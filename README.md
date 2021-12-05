@@ -11,17 +11,18 @@ To prevent such attacks, this work aims to provide a method for secure data tran
  As for the MITM finding the point lies in solving the discrete logarithm problem which is computationally impossible to do so. 
  The novelty of ECDHE is that a distinct key is used for every exchange.
  
- ### 2. AES 128 CBC - AES stands for Advanced Encryption System - 
+ ### 2. AES 128 CBC - Advanced Encryption System - 
  AES functions by the use of a symmetric algorithm and with a base key size of 128 bits has still proven to be safe against brute force attack and even a super computer would require a billion years to crack AES-128 encryption.
  
  ### 3. SHA - 256 - Secured Hashing Algorithm -  
- Used for secure hashing.
+ It one of the strongest one-way hash functions used to convert a variable size input to a and condensed fixed-size bit string output. 
  
  ### 4. Digital signature algorithm - 
  To authenticate the identity of the source messages and for non-repudiation.
  A Digital signature is created at the time of sending the text and is verified at the time of retrieval of the data.
  
- ### 5. Defense against rainbow tables -
+ <hr>
+ ### Defense against rainbow tables -
  A rainbow table is a precomputed table for caching the output of cryptographic hash functions, usually for cracking password hashes but it is ineffective against one-way hashes that include large salts.
  To provide extra security to the passwords of the users that are being stored by providing a unique hash per password.
  
