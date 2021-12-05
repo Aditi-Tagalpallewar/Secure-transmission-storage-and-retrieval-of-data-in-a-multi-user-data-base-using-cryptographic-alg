@@ -23,7 +23,7 @@ To prevent such attacks, this work aims to provide a method for secure data tran
  
  ## Defense against rainbow tables -
  A rainbow table is a precomputed table for caching the output of cryptographic hash functions, usually used for cracking password hashes but it is ineffective against one-way hashes that include large salts.<br>
-Thus salting has been used provide extra security to the passwords of the users that are being stored by providing a unique hash per password.
+Thus salting has been used for providing extra security to the passwords of the users, by generating a unique hash per password.
  
  
  ## Sample Input/Output - 
