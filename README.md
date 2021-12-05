@@ -1,4 +1,4 @@
-# Secure-transmission-storage-and-retrieval-of-data-in-a-multi-user-data-base-using-cryptographic-alg
+# Secure transmission storage and retrieval of data in a multi user data base using cryptographic Algorithm
 
 Data has become one of the most important commodities in recent times and thus the need to secure it has become a necessity. When data is being sent or retrieved over a public channel it may be intercepted and read by an eavesdropper or the altered altogether (Man in the middle attack).
 
