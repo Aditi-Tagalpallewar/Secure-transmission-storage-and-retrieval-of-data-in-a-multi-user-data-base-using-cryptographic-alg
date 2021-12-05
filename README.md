@@ -4,7 +4,7 @@ Data has become one of the most important commodities in recent times and thus t
 
 To prevent such attacks, this work aims to provide a method for secure data transmission and storage system using AES-128 encryption mechanism to encrypt and decrypt user data, Elliptical Curve Diffie Hellman Ephemeral as the primary key sharing algorithm, SHA-256 hashing mechanism, and verify the digital signature without the interference of any third person.
 
- ##Cryptographic algorithms used - 
+ ## Cryptographic algorithms used - 
  ### 1. ECDHE - Elliptic curve Diffie Hellman Ephermal for key exchange - 
  Elliptic curve Diffie-Hellman (ECDH) is an anonymous key exchange and agreement algorithm that allows two parties, each having an elliptic curve public-private key pair, to establish a shared secret over an insecure channel.
  ### ECDH algorithm has been proven to successfully prevent MITM attacks -
