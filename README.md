@@ -15,7 +15,7 @@ To prevent such attacks, this work aims to provide a method for secure data tran
  AES functions by the use of a symmetric algorithm and with a base key size of 128 bits has still proven to be safe against brute force attack and even a super computer would require a billion years to crack AES-128 encryption.
  
  ### 3. SHA - 256 - Secured Hashing Algorithm -  
- It one of the strongest one-way hash functions used to convert a variable size input to a and condensed fixed-size bit string output. 
+ It one of the strongest one-way hash functions used to convert a variable size input to a condensed fixed-size bit string output. 
  
  ### 4. Digital signature algorithm - 
  To authenticate the identity of the source messages and for non-repudiation.
