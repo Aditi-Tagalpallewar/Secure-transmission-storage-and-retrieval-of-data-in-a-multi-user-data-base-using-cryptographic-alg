@@ -17,7 +17,7 @@ To prevent such attacks, this work aims to provide a method for secure data tran
  ### 3. SHA - 256 - Secured Hashing Algorithm -  
  It one of the strongest one-way hash functions used to convert a variable size input to a condensed fixed-size bit string output. 
  
- ### 4. Digital signature algorithm - 
+ ### 4. Digital Signature Algorithm - 
  To authenticate the identity of the source messages and for non-repudiation.
  A Digital signature is created at the time of sending the text and is verified at the time of retrieval of the data.
  
