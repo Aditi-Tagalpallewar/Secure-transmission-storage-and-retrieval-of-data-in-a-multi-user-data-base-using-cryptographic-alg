@@ -1,4 +1,4 @@
-# Secure transmission storage and retrieval of data in a multi user data base using cryptographic Algorithm
+# Secure transmission, storage and retrieval of data in a multi user data base using Cryptographic Algorithms
 
 Data has become one of the most important commodities in recent times and thus the need to secure it has become a necessity. When data is being sent or retrieved over a public channel it may be intercepted and read by an eavesdropper or the altered altogether (Man in the middle attack).
 
@@ -18,12 +18,12 @@ To prevent such attacks, this work aims to provide a method for secure data tran
  It one of the strongest one-way hash functions used to convert a variable size input to a condensed fixed-size bit string output. 
  
  ### 4. Digital Signature Algorithm - 
- To authenticate the identity of the source messages and for non-repudiation.
+ To authenticate the identity of the source messages and for non-repudiation.</br>
  A Digital signature is created at the time of sending the text and is verified at the time of retrieval of the data.
  
  ## Defense against rainbow tables -
- A rainbow table is a precomputed table for caching the output of cryptographic hash functions, usually for cracking password hashes but it is ineffective against one-way hashes that include large salts.
- To provide extra security to the passwords of the users that are being stored by providing a unique hash per password.
+ A rainbow table is a precomputed table for caching the output of cryptographic hash functions, usually used for cracking password hashes but it is ineffective against one-way hashes that include large salts.<br>
+Thus salting has been used provide extra security to the passwords of the users that are being stored by providing a unique hash per password.
  
  
  ## Sample Input/Output - 
