@@ -25,3 +25,7 @@ To prevent such attacks, this work aims to provide a method for secure data tran
  A rainbow table is a precomputed table for caching the output of cryptographic hash functions, usually for cracking password hashes but it is ineffective against one-way hashes that include large salts.
  To provide extra security to the passwords of the users that are being stored by providing a unique hash per password.
  
+ ## Sample Input/Output - 
+ ### Signup - 
+ 
+ 
